@@ -1,0 +1,10 @@
+com/mycompany/emissaocarbono/EdificioEssencial.class
+com/mycompany/emissaocarbono/Veiculo.class
+com/mycompany/emissaocarbono/EdificioResidencial.class
+com/mycompany/emissaocarbono/Onibus.class
+com/mycompany/emissaocarbono/Edificio.class
+com/mycompany/emissaocarbono/Automovel.class
+com/mycompany/emissaocarbono/ICarbonEmitter.class
+com/mycompany/emissaocarbono/IEdificio.class
+com/mycompany/emissaocarbono/Gerador.class
+com/mycompany/emissaocarbono/ICarbonAnalyser.class
