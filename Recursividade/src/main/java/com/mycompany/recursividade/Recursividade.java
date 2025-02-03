@@ -51,7 +51,12 @@ public class Recursividade {
                 System.out.println("Resultado " + resultado);
                     break;
             case 2:
-                System.out.println("Opção 2 selecionada.");
+                System.out.println("Defina o tamanho inteiro do vetor");
+                int tamanho = leitor.nextInt();
+                double vetor[] = new double[tamanho];
+                for(int j = 0; j < tamanho; j++) {
+                    vetor[j] = leitor.nextDouble();
+                }
                     break;
             case 3: 
                 System.out.println("Opção 3 selecionada.");
