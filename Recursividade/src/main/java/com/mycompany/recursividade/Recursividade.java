@@ -21,6 +21,14 @@ public class Recursividade {
             }
         }
 
+    public static double somaVetor(double[] v, int i) {
+        if(i < 0) {
+            return 0;
+        } else {
+            return v[i] + somaVetor( v, i - 1);
+        }
+    }
+            
     public static void main(String[] args) {
         
         Scanner leitor = new Scanner(System.in);
