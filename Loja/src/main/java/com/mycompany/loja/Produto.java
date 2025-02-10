@@ -11,10 +11,10 @@ import java.util.*;
  * @author 1526526
  */
 public abstract class Produto {
-     private static final double MARGEM_PADRAO = 0.2;
+    private static final double MARGEM_PADRAO = 0.2;
     private String descricao;
-    private double precoCusto;
-    private double margemLucro;
+    protected double precoCusto;
+    protected double margemLucro;
      
     
         
@@ -82,4 +82,7 @@ public abstract class Produto {
         
         return String.format("NOME: %s: %s", descricao, moeda.format(valorDeVenda()));
     }
+    
+    
+    
 }
