@@ -1,0 +1,8 @@
+import java.util.Comparator;
+
+public class CompararPorIdentificador implements ComparadorProduto {
+    @Override
+    public int comparar(Produto p1, Produto p2) {
+        return p1.getIdentificador().compareTo(p2.getIdentificador());
+    }
+}
