@@ -1,0 +1,115 @@
+
+0 - Pedido na data 16/06/2025 - Valor a pagar: R$ 12,47
+
+0 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+1 - IDENTIFICADOR: 10668 NOME: Cola em bastao Acafrao: R$ 9,01
+
+1 - Pedido na data 16/06/2025 - Valor a pagar: R$ 13,66
+
+0 - IDENTIFICADOR: 16562 NOME: Bloco de notas Kiwi: R$ 3,75
+1 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+2 - IDENTIFICADOR: 12988 NOME: Cartao de papel Caqui escuro: R$ 6,45
+
+2 - Pedido na data 16/06/2025 - Valor a pagar: R$ 38,69
+
+0 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+1 - IDENTIFICADOR: 15278 NOME: Etiqueta pequena Branco floral: R$ 7,29
+2 - IDENTIFICADOR: 10561 NOME: Ficheiro Azul claro: R$ 8,25
+3 - IDENTIFICADOR: 12854 NOME: Transferidor Verde escuro: R$ 3,72
+4 - IDENTIFICADOR: 14431 NOME: Protetor de folhas Azul piscina: R$ 8,56
+5 - IDENTIFICADOR: 10241 NOME: Furador Purpura: R$ 7,40
+
+3 - Pedido na data 16/06/2025 - Valor a pagar: R$ 21,40
+
+0 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+1 - IDENTIFICADOR: 14700 NOME: Apontador Violeta escuro: R$ 4,66
+2 - IDENTIFICADOR: 13355 NOME: Furador Cinza medio: R$ 3,59
+3 - IDENTIFICADOR: 17056 NOME: Clipe Azul real: R$ 6,46
+4 - IDENTIFICADOR: 15413 NOME: Pasta de papel Oliva: R$ 3,24
+
+4 - Pedido na data 16/06/2025 - Valor a pagar: R$ 30,08
+
+0 - IDENTIFICADOR: 14243 NOME: Clipe Verde escuro: R$ 7,00
+1 - IDENTIFICADOR: 13647 NOME: Cartucho de tinta Marrom: R$ 9,84
+2 - IDENTIFICADOR: 10924 NOME: Transferidor Turquesa: R$ 2,06
+3 - IDENTIFICADOR: 12762 NOME: Cartao de papel Preto: R$ 7,72
+4 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+
+5 - Pedido na data 16/06/2025 - Valor a pagar: R$ 39,96
+
+0 - IDENTIFICADOR: 10491 NOME: Etiqueta grande Fuligem: R$ 6,31
+1 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+2 - IDENTIFICADOR: 11392 NOME: Fita de correcao Rosa bebe: R$ 7,50
+3 - IDENTIFICADOR: 12353 NOME: Envelope Purpura: R$ 9,90
+4 - IDENTIFICADOR: 11745 NOME: Lapis de cor Verde agua: R$ 12,78
+
+6 - Pedido na data 16/06/2025 - Valor a pagar: R$ 24,90
+
+0 - IDENTIFICADOR: 16956 NOME: Giz de cera Tomate: R$ 7,44
+1 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+2 - IDENTIFICADOR: 14153 NOME: Furador Coral claro: R$ 7,13
+3 - IDENTIFICADOR: 10158 NOME: Etiqueta grande Roxo: R$ 6,88
+
+7 - Pedido na data 16/06/2025 - Valor a pagar: R$ 39,40
+
+0 - IDENTIFICADOR: 12999 NOME: Prancheta Rosa claro: R$ 3,98
+1 - IDENTIFICADOR: 11316 NOME: Fita de correcao Castanho claro: R$ 5,46
+2 - IDENTIFICADOR: 12520 NOME: Furador Azul real: R$ 2,72
+3 - IDENTIFICADOR: 10120 NOME: Papel para impressora Mocassim: R$ 5,25
+4 - IDENTIFICADOR: 13066 NOME: Bloco de notas Marfim: R$ 11,37
+5 - IDENTIFICADOR: 13821 NOME: Grampo Caramelo: R$ 7,16
+6 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+
+8 - Pedido na data 16/06/2025 - Valor a pagar: R$ 48,12
+
+0 - IDENTIFICADOR: 13694 NOME: Pasta de plastico Neve: R$ 8,76
+1 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+2 - IDENTIFICADOR: 13192 NOME: Caneta marcador Anil: R$ 8,82
+3 - IDENTIFICADOR: 12710 NOME: Grampeador Dourado escuro: R$ 7,08
+4 - IDENTIFICADOR: 13443 NOME: Apagador Jambo: R$ 7,78
+5 - IDENTIFICADOR: 10460 NOME: Apagador Oliva: R$ 4,91
+6 - IDENTIFICADOR: 15548 NOME: Envelope Bronze : R$ 4,31
+7 - IDENTIFICADOR: 16730 NOME: Cartucho de tinta Ebano: R$ 2,99
+
+9 - Pedido na data 16/06/2025 - Valor a pagar: R$ 61,59
+
+0 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+1 - IDENTIFICADOR: 11624 NOME: Prancheta Acafrao: R$ 10,60
+2 - IDENTIFICADOR: 17660 NOME: Bloco com pauta Azul claro: R$ 7,70
+3 - IDENTIFICADOR: 13783 NOME: Caneta marcador Azul cobalto: R$ 10,69
+4 - IDENTIFICADOR: 16237 NOME: Grampo Verde fluorescente: R$ 4,17
+5 - IDENTIFICADOR: 11027 NOME: Peso de papel Orquidea: R$ 8,62
+6 - IDENTIFICADOR: 14116 NOME: Lapiseira Purpura: R$ 11,79
+7 - IDENTIFICADOR: 16745 NOME: Cola em bastao Orquidea clara: R$ 4,57
+
+10 - Pedido na data 16/06/2025 - Valor a pagar: R$ 21,44
+
+0 - IDENTIFICADOR: 17069 NOME: Peso de papel Rubro: R$ 6,36
+1 - IDENTIFICADOR: 11132 NOME: Post-its Caqui: R$ 3,76
+2 - IDENTIFICADOR: 14944 NOME: Apontador Azul real: R$ 7,87
+3 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+
+11 - Pedido na data 16/06/2025 - Valor a pagar: R$ 17,40
+
+0 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+1 - IDENTIFICADOR: 13671 NOME: Apagador Cinza medio: R$ 9,24
+2 - IDENTIFICADOR: 13777 NOME: Cartucho de tinta Gengibre : R$ 4,71
+
+12 - Pedido na data 16/06/2025 - Valor a pagar: R$ 26,48
+
+0 - IDENTIFICADOR: 16650 NOME: Protetor de folhas Verde fluorescente: R$ 10,16
+1 - IDENTIFICADOR: 11484 NOME: Clipe Azul topazio: R$ 12,86
+2 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+
+13 - Pedido na data 16/06/2025 - Valor a pagar: R$ 65,27
+
+0 - IDENTIFICADOR: 11226 NOME: Elastico Salmao escuro: R$ 8,80
+1 - IDENTIFICADOR: 15827 NOME: Calculadora Vermelho escuro: R$ 10,14
+2 - IDENTIFICADOR: 12472 NOME: Alfinete Escarlate: R$ 9,94
+3 - IDENTIFICADOR: 14394 NOME: Cartolina Azul cadete: R$ 6,10
+4 - IDENTIFICADOR: 10604 NOME: Cola em bastao Turquesa clara : R$ 10,71
+5 - IDENTIFICADOR: 17700 NOME: Lapiseira Naval: R$ 3,45
+6 - IDENTIFICADOR: 10327 NOME: Lapiseira Verde: R$ 7,02
+7 - IDENTIFICADOR: 10528 NOME: Organizador Rosa bebe: R$ 9,11
+
+
