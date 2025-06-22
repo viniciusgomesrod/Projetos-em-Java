@@ -1,0 +1,125 @@
+
+0 - Pedido na data 22/06/2025 - Valor a pagar: R$ 19,97
+
+0 - IDENTIFICADOR: 16104 NOME: Post-its Azul: R$ 3,63
+1 - IDENTIFICADOR: 14349 NOME: Etiqueta pequena Bege: R$ 11,19
+2 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+
+1 - Pedido na data 22/06/2025 - Valor a pagar: R$ 34,37
+
+0 - IDENTIFICADOR: 11337 NOME: Apontador Rosa escuro: R$ 3,36
+1 - IDENTIFICADOR: 15224 NOME: Papel para impressora Orquidea clara: R$ 7,75
+2 - IDENTIFICADOR: 13676 NOME: Apontador Azul brasilis: R$ 5,03
+3 - IDENTIFICADOR: 11424 NOME: Fita adesiva Fuligem: R$ 2,63
+4 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+5 - IDENTIFICADOR: 12919 NOME: Alfinete Amarelo creme: R$ 10,46
+
+2 - Pedido na data 22/06/2025 - Valor a pagar: R$ 52,55
+
+0 - IDENTIFICADOR: 11455 NOME: Liquido de correcao Uva : R$ 12,37
+1 - IDENTIFICADOR: 16838 NOME: Post-its Violeta claro : R$ 9,53
+2 - IDENTIFICADOR: 17149 NOME: Post-its Rosa: R$ 8,10
+3 - IDENTIFICADOR: 14766 NOME: Liquido de correcao Linho : R$ 6,86
+4 - IDENTIFICADOR: 16965 NOME: Papel reciclado Cereja: R$ 10,53
+5 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+
+3 - Pedido na data 22/06/2025 - Valor a pagar: R$ 48,70
+
+0 - IDENTIFICADOR: 16350 NOME: Pasta de papel Fuligem: R$ 4,55
+1 - IDENTIFICADOR: 13666 NOME: Protetor de folhas Verde: R$ 4,25
+2 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+3 - IDENTIFICADOR: 15836 NOME: Grampeador Azul: R$ 10,42
+4 - IDENTIFICADOR: 15953 NOME: Caneta-tinteiro Azul brasilis: R$ 6,33
+5 - IDENTIFICADOR: 12428 NOME: Elastico Turquesa: R$ 5,63
+6 - IDENTIFICADOR: 10782 NOME: Fita adesiva Gengibre : R$ 3,62
+7 - IDENTIFICADOR: 13672 NOME: Clipe Amarelo: R$ 8,76
+
+4 - Pedido na data 22/06/2025 - Valor a pagar: R$ 14,02
+
+0 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+1 - IDENTIFICADOR: 17217 NOME: Giz de cera Naval: R$ 8,87
+
+5 - Pedido na data 22/06/2025 - Valor a pagar: R$ 50,09
+
+0 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+1 - IDENTIFICADOR: 12144 NOME: Grampo Marfim: R$ 9,96
+2 - IDENTIFICADOR: 10940 NOME: Compasso Orquidea clara: R$ 3,60
+3 - IDENTIFICADOR: 12696 NOME: Apontador Rosa choque: R$ 2,48
+4 - IDENTIFICADOR: 10772 NOME: Etiqueta grande Gris: R$ 12,56
+5 - IDENTIFICADOR: 14789 NOME: Pasta de papel Magenta: R$ 7,49
+6 - IDENTIFICADOR: 10250 NOME: Fita de correcao Azul profundo: R$ 8,85
+
+6 - Pedido na data 22/06/2025 - Valor a pagar: R$ 16,25
+
+0 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+1 - IDENTIFICADOR: 17123 NOME: Compasso Verde lima: R$ 4,26
+2 - IDENTIFICADOR: 16245 NOME: Cartolina Quartzo rosa : R$ 6,84
+
+7 - Pedido na data 22/06/2025 - Valor a pagar: R$ 52,08
+
+0 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+1 - IDENTIFICADOR: 12774 NOME: Organizador Ametista: R$ 9,04
+2 - IDENTIFICADOR: 15559 NOME: Cartucho de tinta Rosa: R$ 3,38
+3 - IDENTIFICADOR: 10643 NOME: Transferidor Cinza escuro: R$ 6,56
+4 - IDENTIFICADOR: 16870 NOME: Fita de correcao Verde oliva: R$ 4,06
+5 - IDENTIFICADOR: 11831 NOME: Caneta esferografica Verde escuro: R$ 9,42
+6 - IDENTIFICADOR: 10160 NOME: Esquadro Azul profundo: R$ 4,21
+7 - IDENTIFICADOR: 10348 NOME: Esquadro Vermelho escuro: R$ 10,25
+
+8 - Pedido na data 22/06/2025 - Valor a pagar: R$ 21,74
+
+0 - IDENTIFICADOR: 10860 NOME: Prancheta Ferrugem: R$ 2,49
+1 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+2 - IDENTIFICADOR: 11394 NOME: Caneta esferografica Azul cobalto: R$ 7,18
+3 - IDENTIFICADOR: 15106 NOME: Caderno Marrom: R$ 6,93
+
+9 - Pedido na data 22/06/2025 - Valor a pagar: R$ 41,90
+
+0 - IDENTIFICADOR: 11289 NOME: Folha laminada Azul profundo: R$ 2,81
+1 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+2 - IDENTIFICADOR: 14033 NOME: Organizador Castanho claro: R$ 9,68
+3 - IDENTIFICADOR: 17148 NOME: Papel reciclado Verde bandeira: R$ 6,90
+4 - IDENTIFICADOR: 10564 NOME: Pasta de plastico Azul turquesa: R$ 9,06
+5 - IDENTIFICADOR: 12008 NOME: Cartolina Ocre: R$ 8,31
+
+10 - Pedido na data 22/06/2025 - Valor a pagar: R$ 29,90
+
+0 - IDENTIFICADOR: 10693 NOME: Caneta marcador Creme: R$ 5,59
+1 - IDENTIFICADOR: 12570 NOME: Tachinha Azul profundo: R$ 6,74
+2 - IDENTIFICADOR: 12820 NOME: Etiqueta pequena Pessego: R$ 12,42
+3 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+
+11 - Pedido na data 22/06/2025 - Valor a pagar: R$ 40,58
+
+0 - IDENTIFICADOR: 15723 NOME: Etiqueta grande Indigo: R$ 11,60
+1 - IDENTIFICADOR: 15496 NOME: Lapiseira Castanho claro: R$ 3,15
+2 - IDENTIFICADOR: 16590 NOME: Cola em bastao Ebano: R$ 2,80
+3 - IDENTIFICADOR: 10977 NOME: Lapis Borgonha: R$ 9,32
+4 - IDENTIFICADOR: 15586 NOME: Elastico Marrom claro: R$ 6,50
+5 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+6 - IDENTIFICADOR: 12402 NOME: Papel para impressora Magenta escuro: R$ 2,07
+
+12 - Pedido na data 22/06/2025 - Valor a pagar: R$ 15,27
+
+0 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+1 - IDENTIFICADOR: 14208 NOME: Papel para impressora Amarelo claro: R$ 10,12
+
+13 - Pedido na data 22/06/2025 - Valor a pagar: R$ 49,91
+
+0 - IDENTIFICADOR: 10559 NOME: Apagador Anil: R$ 8,34
+1 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+2 - IDENTIFICADOR: 10858 NOME: Pasta de papel Turquesa media: R$ 12,94
+3 - IDENTIFICADOR: 11644 NOME: Peso de papel Gengibre : R$ 9,04
+4 - IDENTIFICADOR: 15278 NOME: Etiqueta pequena Branco floral: R$ 7,29
+5 - IDENTIFICADOR: 17234 NOME: Transferidor Magenta escuro: R$ 7,14
+
+14 - Pedido na data 22/06/2025 - Valor a pagar: R$ 47,21
+
+0 - IDENTIFICADOR: 13599 NOME: Etiqueta grande Creme: R$ 5,52
+1 - IDENTIFICADOR: 10436 NOME: Liquido de correcao Verde lima: R$ 7,80
+2 - IDENTIFICADOR: 11500 NOME: Fita adesiva Verde agua: R$ 5,15
+3 - IDENTIFICADOR: 16738 NOME: Alfinete Amarelo escuro: R$ 8,73
+4 - IDENTIFICADOR: 15200 NOME: Cartolina Agua-marinha: R$ 11,58
+5 - IDENTIFICADOR: 16089 NOME: Cartao de papel Rosa profundo: R$ 8,45
+
+

@@ -22,7 +22,6 @@ public class TabelaHash<K, V> implements IMapeamento<K,V> {
 	 * @param capacidade: quantidade de posições da tabela hash. Cada posição é uma lista encadeada. 
 	 * @throws IllegalArgumentException caso a capacidade seja um número não positivo.
 	 */
-
 	@SuppressWarnings("unchecked")
 	public TabelaHash(int capacidade) {
 		if(capacidade < 1)
@@ -42,7 +41,6 @@ public class TabelaHash<K, V> implements IMapeamento<K,V> {
 	 * @param chave: chave da qual desejamos saber a posição na tabela hash.
 	 * @return a posição que o item, cuja chave corresponde a que foi passada como parâmetro para esse método, deve ocupar na tabela hash.
 	 */
-	
 	private int funcaoHash(K chave) {
 		return Math.abs(chave.hashCode() % this.capacidade);
 	}

@@ -1,0 +1,129 @@
+
+0 - Pedido na data 22/06/2025 - Valor a pagar: R$ 49,07
+
+0 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+1 - IDENTIFICADOR: 14395 NOME: Bloco com pauta Magenta: R$ 2,45
+2 - IDENTIFICADOR: 14479 NOME: Transferidor Azul celeste: R$ 3,89
+3 - IDENTIFICADOR: 13487 NOME: Pasta de papel Linho : R$ 4,35
+4 - IDENTIFICADOR: 15325 NOME: Calculadora Azul cadete: R$ 4,16
+5 - IDENTIFICADOR: 11304 NOME: Papel colorido Amarelo: R$ 12,43
+6 - IDENTIFICADOR: 10130 NOME: Prancheta Cinza fosco: R$ 5,14
+7 - IDENTIFICADOR: 14597 NOME: Elastico Violeta claro : R$ 7,57
+
+1 - Pedido na data 22/06/2025 - Valor a pagar: R$ 30,23
+
+0 - IDENTIFICADOR: 16711 NOME: Liquido de correcao Magenta: R$ 3,78
+1 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+2 - IDENTIFICADOR: 12862 NOME: Papel reciclado Violeta: R$ 2,99
+3 - IDENTIFICADOR: 14737 NOME: Alfinete Oliva escura: R$ 7,14
+4 - IDENTIFICADOR: 10081 NOME: Fita adesiva Violeta: R$ 7,24
+
+2 - Pedido na data 22/06/2025 - Valor a pagar: R$ 45,16
+
+0 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+1 - IDENTIFICADOR: 10712 NOME: Tesoura Azul petroleo: R$ 3,55
+2 - IDENTIFICADOR: 13925 NOME: Grampo Tangerina: R$ 8,14
+3 - IDENTIFICADOR: 14627 NOME: Lapis de cor Rosa escuro: R$ 7,59
+4 - IDENTIFICADOR: 17495 NOME: Clipe Azul profundo: R$ 2,63
+5 - IDENTIFICADOR: 13366 NOME: Alfinete Malva: R$ 6,56
+6 - IDENTIFICADOR: 11591 NOME: Envelope Dourado escuro: R$ 7,61
+
+3 - Pedido na data 22/06/2025 - Valor a pagar: R$ 39,32
+
+0 - IDENTIFICADOR: 10726 NOME: Compasso Lilas: R$ 3,42
+1 - IDENTIFICADOR: 13305 NOME: Elastico Fucsia : R$ 2,53
+2 - IDENTIFICADOR: 11433 NOME: Liquido de correcao Ferrugem: R$ 5,71
+3 - IDENTIFICADOR: 14252 NOME: Furador Rosa escuro: R$ 7,17
+4 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+5 - IDENTIFICADOR: 15480 NOME: Post-its Lilas: R$ 11,41
+
+4 - Pedido na data 22/06/2025 - Valor a pagar: R$ 37,89
+
+0 - IDENTIFICADOR: 17333 NOME: Transferidor Anil: R$ 7,28
+1 - IDENTIFICADOR: 16614 NOME: Clipe Orquidea escura: R$ 1,89
+2 - IDENTIFICADOR: 14177 NOME: Papel cartao Chocolate: R$ 8,91
+3 - IDENTIFICADOR: 14193 NOME: Giz de cera Bege: R$ 4,66
+4 - IDENTIFICADOR: 10278 NOME: Papel cartao Salmao claro: R$ 6,07
+5 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+
+5 - Pedido na data 22/06/2025 - Valor a pagar: R$ 48,42
+
+0 - IDENTIFICADOR: 14130 NOME: Post-its Cinza: R$ 2,89
+1 - IDENTIFICADOR: 11292 NOME: Tachinha Magenta: R$ 9,48
+2 - IDENTIFICADOR: 13929 NOME: Folha laminada Turquesa escura: R$ 4,90
+3 - IDENTIFICADOR: 14807 NOME: Papel quadriculado Rosa escuro: R$ 4,76
+4 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+5 - IDENTIFICADOR: 10894 NOME: Giz de cera Borgonha: R$ 11,00
+6 - IDENTIFICADOR: 14058 NOME: Papel colorido Azul petroleo: R$ 6,32
+
+6 - Pedido na data 22/06/2025 - Valor a pagar: R$ 16,34
+
+0 - IDENTIFICADOR: 14092 NOME: Cola Jasmine : R$ 2,69
+1 - IDENTIFICADOR: 13378 NOME: Transferidor Lima: R$ 4,57
+2 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+
+7 - Pedido na data 22/06/2025 - Valor a pagar: R$ 32,92
+
+0 - IDENTIFICADOR: 13234 NOME: Cartucho de tinta Linho : R$ 2,78
+1 - IDENTIFICADOR: 10725 NOME: Lapis Violeta claro : R$ 8,90
+2 - IDENTIFICADOR: 13261 NOME: Papel para impressora Violeta claro : R$ 2,55
+3 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+4 - IDENTIFICADOR: 13508 NOME: Caneta-tinteiro Azul bebe: R$ 9,62
+
+8 - Pedido na data 22/06/2025 - Valor a pagar: R$ 37,09
+
+0 - IDENTIFICADOR: 10785 NOME: Alfinete Laranja escuro: R$ 10,19
+1 - IDENTIFICADOR: 11671 NOME: Papel colorido Lilas: R$ 8,68
+2 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+3 - IDENTIFICADOR: 13259 NOME: Pasta de plastico Bronze : R$ 5,89
+4 - IDENTIFICADOR: 11737 NOME: Fita adesiva Azul petroleo: R$ 3,27
+
+9 - Pedido na data 22/06/2025 - Valor a pagar: R$ 49,08
+
+0 - IDENTIFICADOR: 17511 NOME: Cartucho de tinta Acafrao: R$ 9,98
+1 - IDENTIFICADOR: 16670 NOME: Regua Cinza claro: R$ 9,30
+2 - IDENTIFICADOR: 15158 NOME: Papel reciclado Naval: R$ 6,38
+3 - IDENTIFICADOR: 12432 NOME: Grampeador Marfim: R$ 7,07
+4 - IDENTIFICADOR: 15569 NOME: Protetor de folhas Amarelo canario: R$ 7,28
+5 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+
+10 - Pedido na data 22/06/2025 - Valor a pagar: R$ 39,24
+
+0 - IDENTIFICADOR: 12853 NOME: Caderno Amendoa: R$ 7,82
+1 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+2 - IDENTIFICADOR: 11431 NOME: Liquido de correcao Oliva: R$ 3,08
+3 - IDENTIFICADOR: 17616 NOME: Papel quadriculado Malva: R$ 8,75
+4 - IDENTIFICADOR: 10204 NOME: Organizador Cinza medio: R$ 2,97
+5 - IDENTIFICADOR: 13240 NOME: Regua Pessego: R$ 7,55
+
+11 - Pedido na data 22/06/2025 - Valor a pagar: R$ 45,72
+
+0 - IDENTIFICADOR: 15040 NOME: Pasta de plastico Violeta escuro: R$ 10,08
+1 - IDENTIFICADOR: 12051 NOME: Transferidor Urucum: R$ 8,53
+2 - IDENTIFICADOR: 17666 NOME: Lapis de cor Cinza claro: R$ 4,91
+3 - IDENTIFICADOR: 11530 NOME: Cola em bastao Marrom rosado: R$ 9,82
+4 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+5 - IDENTIFICADOR: 12799 NOME: Grampo Ferrugem: R$ 3,31
+
+12 - Pedido na data 22/06/2025 - Valor a pagar: R$ 48,07
+
+0 - IDENTIFICADOR: 17328 NOME: Folha laminada Rosa profundo: R$ 3,79
+1 - IDENTIFICADOR: 15219 NOME: Alfinete Cinza ardosia: R$ 5,46
+2 - IDENTIFICADOR: 16224 NOME: Etiqueta grande Branco floral: R$ 2,06
+3 - IDENTIFICADOR: 15923 NOME: Folha laminada Verde escuro: R$ 11,58
+4 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+5 - IDENTIFICADOR: 17629 NOME: Lapiseira Branco antigo: R$ 4,42
+6 - IDENTIFICADOR: 17433 NOME: Papel quadriculado Rubro: R$ 2,27
+7 - IDENTIFICADOR: 16619 NOME: Cola Dourado: R$ 9,40
+
+13 - Pedido na data 22/06/2025 - Valor a pagar: R$ 16,68
+
+0 - IDENTIFICADOR: 15744 NOME: Transferidor Pardo: R$ 3,55
+1 - IDENTIFICADOR: 17037 NOME: Cola em bastao Borgonha: R$ 4,06
+2 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+
+14 - Pedido na data 22/06/2025 - Valor a pagar: R$ 9,08
+
+0 - IDENTIFICADOR: 17749 NOME: Envelope Verde mar: R$ 9,07
+
+

@@ -60,14 +60,16 @@ public class App {
      * @return Um inteiro com a opção do usuário.
     */
     static int menu() {
-        cabecalho();
-        System.out.println("1 - Procurar produtos, por id");
-        System.out.println("2 - Recortar produtos, por descrição");
-        System.out.println("3 - Pedidos de um produto, em arquivo");
-        System.out.println("0 - Sair");
-        System.out.print("Digite sua opção: ");
-        return Integer.parseInt(teclado.nextLine());
-    }
+    cabecalho();
+    System.out.println("1 - Procurar produtos, por id");
+    System.out.println("2 - Recortar produtos, por descrição");
+    System.out.println("3 - Pedidos de um produto, em arquivo");
+    System.out.println("4 - Criar novo pedido"); // NOVA OPÇÃO
+    System.out.println("5 - Listar produtos com id e descrição"); // NOVO METODO
+    System.out.println("0 - Sair");
+    System.out.print("Digite sua opção: ");
+    return Integer.parseInt(teclado.nextLine());
+}
     
     /**
      * Lê os dados de um arquivo-texto e retorna uma árvore de produtos. Arquivo-texto no formato
@@ -195,9 +197,60 @@ public class App {
             System.out.println("Problemas para criar o arquivo "+nomeArquivo+". Tente novamente");
         }
     }
+
+// INICIO DOS METODOS QUE EU CRIEI 
+
+    static void criarNovoPedido() {
+    cabecalho();
+    System.out.println("CRIAR NOVO PEDIDO");
+    
+    Pedido novoPedido = new Pedido();
+    char continuar;
+    
+    do {
+        Produto produto = localizarProdutoID();
+        
+        if (produto == null) {
+            System.out.println("Operação cancelada pelo usuário.");
+            pausa(); // Pausa antes de sair
+            return;
+        }
+        
+        novoPedido.incluirProduto(produto);
+        inserirNaTabela(produto, novoPedido);
+        
+        System.out.print("Adicionar outro produto? (S/N): ");
+        continuar = teclado.nextLine().charAt(0);
+    } while (continuar == 'S' || continuar == 's');
+    
+    System.out.println("Pedido criado: " + novoPedido.resumo());
+    pausa(); // ✅ ADICIONADO AQUI: Pausa para confirmar antes de voltar ao menu
+}
+
+/**
+ * Lista todos os produtos cadastrados no sistema, mostrando ID e descrição.
+ * Usa a árvore de produtos ordenada por ID (produtosPorId).
+ */
+static void listarProdutosComId() {
+    cabecalho();
+    System.out.println("LISTA DE TODOS OS PRODUTOS (ID + DESCRIÇÃO)");
+    System.out.println("===========================================");
+    
+    // Usa o percorrer() da ABB, que já retorna os itens em ordem (crescente por ID)
+    String listaProdutos = produtosPorId.percorrer();
+    
+    if (listaProdutos.isEmpty()) {
+        System.out.println("Nenhum produto cadastrado!");
+    } else {
+        System.out.println(listaProdutos); // Formato: ID - Descrição - Preço...
+    }
+}
+
+// FIM DOS MEUS METODOS QUE CRIEI
+
     public static void main(String[] args) {
 		teclado = new Scanner(System.in, Charset.forName("UTF-8"));
-        nomeArquivoDados = "D:/users/1526526/Downloads/Oficina-16Jun-Completo/produtos.txt";
+        nomeArquivoDados = "/Users/viniciusgomesrodrigues/Downloads/Oficina-16Jun-Completo/produtos.txt";
         produtosPorId = lerProdutos(nomeArquivoDados, Produto::hashCode);
         produtosPorNome = new AVL<>(produtosPorId, prod -> prod.descricao, String::compareTo);
         pedidosPorProduto = new TabelaHash<>((int)(quantosProdutos*1.25));
@@ -211,6 +264,8 @@ public class App {
                 case 1 -> localizarProdutoID();
                 case 2 -> recortarArvore(produtosPorNome);
                 case 3 -> pedidosDoProduto();
+                case 4 -> criarNovoPedido();
+                case 5 -> listarProdutosComId();
              }
             pausa();
         }while(opcao != 0);       
